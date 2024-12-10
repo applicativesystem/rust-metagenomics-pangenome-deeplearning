@@ -1,5 +1,4 @@
 # rust-pangenome-tools
-<<<<<<< HEAD
  - writing all pangenome tools in rust. 
  - This part summarizes all the pangenome alignments. 
  - estimates and gives all descriptive statistics on the pangenome alignment. 
@@ -36,4 +35,3 @@
 - pangenome tools for metagenomes, pangenomes, pantrascriptomes using RUST.
 
 Gaurav Sablok
->>>>>>> 5203000c14ff30b2867782a198a8fcb90fe562aa
