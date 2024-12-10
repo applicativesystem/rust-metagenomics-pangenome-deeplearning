@@ -2,6 +2,7 @@
  - writing all pangenome tools in rust. 
  - This part summarizes all the pangenome alignments. 
  - estimates and gives all descriptive statistics on the pangenome alignment. 
+ - general note: Incase of Golang and RUST, please see the last commit message and if it says compiled binary then it is completed or else still in development version.
  ```
  cargo build
  
